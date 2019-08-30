@@ -1,4 +1,4 @@
-package com.shoufeng.common.util;
+package com.shoufeng.common.utils;
 
 import com.shoufeng.common.pojo.Result;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -12,7 +12,7 @@ import org.springframework.web.client.RestTemplate;
  * @author shoufeng
  */
 @Component
-public class HttpUtil {
+public class HttpUtils {
 
     @Autowired
     RestTemplateBuilder restTemplateBuilder;

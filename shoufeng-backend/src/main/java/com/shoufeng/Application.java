@@ -3,6 +3,10 @@ package com.shoufeng;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * 项目启动类
+ * @author shoufeng
+ */
 @SpringBootApplication
 public class Application {
 
