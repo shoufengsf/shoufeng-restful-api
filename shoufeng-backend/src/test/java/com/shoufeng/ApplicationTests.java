@@ -7,6 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 /**
  * 测试类父类 子类
+ *
  * @author shoufeng
  */
 @RunWith(SpringRunner.class)
